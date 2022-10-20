@@ -22,4 +22,6 @@ CONGRATS ON MAKING A VIRTUAL MACHINE!!!
 
 <h2>REMOTE ACCESS</h2>
 
--
+-Now that you have created the VM (virtual machine) click in the search bar and search "Virtual Machines" (or click you can click virtual machines under the "Azure Services" tab) there you will see the name of the machine you created.
+
+-Click the name of your vm and that will take you to an overview page displaying all the info about your vm. You will see a public ip address and a private ip address. You will need the public ip; copy or write it down!!!
