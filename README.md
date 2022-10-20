@@ -34,4 +34,13 @@ CONGRATS ON MAKING A VIRTUAL MACHINE!!!
 
 -Click on the PC and if done correctly; your vm should load on your Mac.
 
+-To delete your vm, go back to your azure portal and go to resoure group. Delete the resource group and the NetworkWatcherRG folders created and your done. 
+
+<H3> VIDEO EXAMPLE</H3>
+
+<a href="https://www.youtube.com/watch?v=nSaR6vKg-XU"> Creating Virtual Machine In Azure</a>
+
+
+
+
 
