@@ -30,4 +30,6 @@ CONGRATS ON MAKING A VIRTUAL MACHINE!!!
 
 -For Mac users, download "RD Cient" from the Apple store (its free).
 
--Open the app and click on the + sign. Select "Add PC". Enter ip adress under "PC NAME" and under "USER ACCOUNT"
+-Open the app and click on the + sign. Select "Add PC". Enter ip adress under "PC NAME" and under "USER ACCOUNT" type in your vms username and password that you created and click save. This will create your virtual PC within the app with the IP adress as the name
+
+
