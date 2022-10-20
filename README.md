@@ -16,7 +16,10 @@ This project is a step by step tutorial on creating a virtual machine using Azur
 
 -Once your page loads, You'll see "Azure Subscription 1" and "(New) Resource group". Click the box refering to the resource group, and click on the resource group you've just created. This is where your virtual machine will be stored.
 
--Name your Virtual Machine, select the same region that you chose for your resource group, Under "image"; select your desired operating system, Under "size" select the desired size of the virtual cpu you want, create a username and password under "Administrator account", check box under "licensing", lastly click "Review + Create". If done correctly; validation should pass, and click "create"
+-Name your Virtual Machine, select the same region that you chose for your resource group, Under "image"; select your desired operating system, Under "size" select the desired size of the virtual cpu you want, create a username and password under "Administrator account", check box under "licensing", lastly click "Review + Create". If done correctly; validation should pass, and click "create". Exercise some patience, for it will take a while to create.
 
 CONGRATS ON MAKING A VIRTUAL MACHINE!!!
 
+<h2>REMOTE ACCESS</h2>
+
+-
