@@ -38,7 +38,7 @@ CONGRATS ON MAKING A VIRTUAL MACHINE!!!
 
 <H3> VIDEO EXAMPLE</H3>
 
-<a href="https://www.youtube.com/watch?v=nSaR6vKg-XU"> Creating Virtual Machine In Azure</a>
+<a href="https://www.youtube.com/watch?v=iaooNrDpEtM&t=11s"> Creating Virtual Machine In Azure</a>
 
 
 
